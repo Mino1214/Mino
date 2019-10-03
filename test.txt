@@ -1,9 +1,0 @@
-The rainbow
-
-red
-orange
-yellow
-green
-blue
-purple
-black
